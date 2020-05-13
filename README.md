@@ -1,5 +1,5 @@
 # Color-Detector
-A Deep-Learning powered smart color-detector built using python libraries OpenCV and Pandas
+A Deep-Learning powered smart color-detector built using python libraries OpenCV and Pandas.
 
 ## How to use?
 
